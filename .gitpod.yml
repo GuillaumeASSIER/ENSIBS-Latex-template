@@ -1,0 +1,6 @@
+tasks:
+  - init: sudo apt update && sudo apt install latexmk texlive-latex-extra texlive-full
+
+vscode:
+  extensions:
+    - james-yu.latex-workshop
